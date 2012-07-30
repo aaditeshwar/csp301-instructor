@@ -106,7 +106,7 @@ public class PopulationTutorial extends JPanel {
     // containers for the data, x-axis labels, and y-axis labels
     private Rectangle2D g_dataB = new Rectangle2D.Double();
     private Rectangle2D g_xlabB = new Rectangle2D.Double();
-    private Rectangle2D g_ylabB = new Rectangle2D.Double();
+    private Rectangle2D g_ylabB = new Rectangle2D.Double();     
 
     /*
      * Constructor for the class 
